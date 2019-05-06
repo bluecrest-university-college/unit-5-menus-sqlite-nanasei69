@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addContactItem"
+        android:icon="@drawable/ic_launcher_background"
+        android:orderInCategory="100"
+        android:title="Add_Contact"
+        android:titleCondensed="Add_Contact"
+        app:showAsAction="never" />
+</menu>

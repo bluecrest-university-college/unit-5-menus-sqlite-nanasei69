@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactsBook</string>
+    <string name="confirmTitle">Are You Sure?</string>
+    <string name="errorMessage">You must enter a contact name </string>
+    <string name="confirmMessage">This will permanently delete the conatct</string>
+    <string name="errorButton">OK</string>
+    <string name="errorTitle">Contact Name is Required</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+</resources>
